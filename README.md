@@ -1,0 +1,1 @@
+# STM32G431-DRV8323-Brushless-DC-Motor-Electronic-Speed-Controller-PCB-Design
